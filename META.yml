@@ -1,5 +1,5 @@
 ---
-abstract: 'Embed Orochi In Catalyst'
+abstract: 'Catalyst-Orochi Integration'
 author:
   - 'Daisuke Maki C<< <daisuke@endeworks.jp> >>'
 build_requires:
@@ -22,4 +22,4 @@ requires:
   Orochi: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.00001
+version: 0.00002
